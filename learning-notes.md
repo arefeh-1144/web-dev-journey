@@ -8,3 +8,6 @@
 ## Next Steps
 - Learn how to create files
 - Practice HTML and CSS
+## My Next Goal
+
+- Learn how to edit and update files
